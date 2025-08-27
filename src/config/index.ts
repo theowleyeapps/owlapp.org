@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "midhunlal g — Mobile & Web Developer",
   author: "midhunlal g",
   description:
-    "Software Engineer based in Erlangen, Germany. I specialize in UI design, web and mobile application development and maintenance.",
+    "Software Engineer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Midhunlal G",
     specialty: "Mobile & Web Developer",
     summary:
-      "Developer based in Erlangen, Germany. I specialize in UI design, web and mobile application development and maintenance.",
+      "Developer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
     email: "example@email.com",
   },
   experience: [
