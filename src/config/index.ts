@@ -1,8 +1,8 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "owleye apps — developed by a indie-devloper",
-  author: "owleye apps",
+  title: "Owleye Apps, Founded by a Indie Developer",
+  author: "Owleye Apps",
   description:
     "Software Engineer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
