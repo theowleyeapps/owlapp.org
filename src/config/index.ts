@@ -1,10 +1,10 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Owleye Apps, Founded by a Indie Developer",
-  author: "Owleye Apps",
+  title: "OwlApps, Founded by a Indie Developer",
+  author: "OwlApps",
   description:
-    "Software Engineer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
+    "At Owlapps, we craft simple tools that solve everyday problems and bring more joy into your routine. Tools like Amazon shopping assistant that tracks the deals and prices , or a Obsidian notes to apple notes importer.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -25,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "OwleyeApps Innovations",
+    name: "OwlApps Innovations",
     specialty: "Creating apps that make people's life easier and happier.",
     summary:
       "At Owlapps, we craft simple tools that solve everyday problems and bring more joy into your life.",
