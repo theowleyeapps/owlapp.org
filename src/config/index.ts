@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Ayalin G — Mobile & Web Developer",
   author: "Ayalin G",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Software Engineer based in Erlangen, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
