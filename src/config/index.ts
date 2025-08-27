@@ -26,9 +26,9 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "OwleyeApps Innovations",
-    specialty: "Founded by a Indie Developer",
+    specialty: "Apps designed to brighten your day",
     summary:
-      "Developer based in Kochi, India. I am developing apps to make people's life more happier!",
+      "At Owlapps, we craft simple tools that solve everyday problems and bring more joy into your life.",
     email: "example@email.com",
   },
   experience: [
