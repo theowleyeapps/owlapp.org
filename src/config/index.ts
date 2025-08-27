@@ -1,8 +1,8 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "midhunlal g — Mobile & Web Developer",
-  author: "midhunlal g",
+  title: "owleye apps — developed by a indie-devloper,
+  author: "owleye apps",
   description:
     "Software Engineer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
