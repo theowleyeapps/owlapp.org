@@ -25,10 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Midhunlal G",
-    specialty: "Mobile & Web Developer",
+    name: "OwleyeApps Innovations",
+    specialty: "Founded by a Indie Developer",
     summary:
-      "Developer based in Kochi, India. I specialize in UI design, web and mobile application development and maintenance.",
+      "Developer based in Kochi, India. I am developing apps to make people's life more happier!",
     email: "example@email.com",
   },
   experience: [
