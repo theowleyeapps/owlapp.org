@@ -26,7 +26,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "OwleyeApps Innovations",
-    specialty: "Apps designed to brighten your day",
+    specialty: "Creating apps that make people's life easier and happier.",
     summary:
       "At Owlapps, we craft simple tools that solve everyday problems and bring more joy into your life.",
     email: "example@email.com",
