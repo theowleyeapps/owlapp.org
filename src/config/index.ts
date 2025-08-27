@@ -1,8 +1,8 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Ayalin G — Mobile & Web Developer",
-  author: "Ayalin G",
+  title: "Midhunlal G — Mobile & Web Developer",
+  author: "Mihdunlal G",
   description:
     "Software Engineer based in Erlangen, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
@@ -25,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Ayalin G",
+    name: "Midhunlal G",
     specialty: "Mobile & Web Developer",
     summary:
       "Developer based in Erlangen, Germany. I specialize in UI design, web and mobile application development and maintenance.",
